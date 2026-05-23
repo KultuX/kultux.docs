@@ -10,13 +10,8 @@ Actualmente incluye:
 
 - Manual técnico
 - Manual de usuario
-- Diagramas de arquitectura
-- Modelado de base de datos
-- Diagramas UML
-- Documentación de despliegue
-- Casos de uso
-- Diseño visual y prototipos
-- Documentación académica del proyecto
+- Manual de gestor
+- Definición del proyecto
 
 ---
 
@@ -73,11 +68,7 @@ kultux.docs/
 │
 ├── manual-tecnico/
 ├── manual-usuario/
-├── diagramas/
-├── modelos-bbdd/
-├── despliegue/
-├── casos-de-uso/
-├── figma/
+├── definicion-proyecto/
 └── memoria-proyecto/
 ```
 
